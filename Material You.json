@@ -9,10 +9,8 @@
     ],
    "semanticColors": {
       "BACKGROUND_ACCENT": ["system_accent1_300"],
-    
       "BACKGROUND_PRIMARY": ["system_neutral1_900"],
       "BACKGROUND_SECONDARY": ["system_neutral2_800"],
-     
       "TEXT_NORMAL": ["system_neutral2_600"]
     },
    "rawColors": {
