@@ -1,12 +1,12 @@
 {
-   "name": "Material You Theme 1.0.42",
-   "description": "A Discord theme with Material You theming",
-         "authors": [
-      {
-         "name": "Taki_Shiwa",
-         "id": "466968658997149706"
-      }
-    ],
+   "name": "Material You Theme 1.0.43",
+   "description": "A Discord theme with Material You theming.",
+ "authors": [
+     {
+        "name": "Taki_Shiwa",
+        "id": "466968658997149706"
+     }
+   ],
    "semanticColors": {
       "BACKGROUND_ACCENT": ["system_neutral1_900"],
       "BACKGROUND_FLOATING": ["system_neutral1_900"],
@@ -48,7 +48,7 @@
       "TEXT_LINK": ["system_neutral1_900"],
       "TEXT_MUTED": ["system_neutral1_900"],
       "TEXT_NORMAL": ["system_neutral1_900"]
-    },
+   },
    "rawColors": {
       "BRAND_260": "system_accent1_300",
       "BRAND_360": "#c6a0f6",
@@ -60,7 +60,7 @@
       "PRIMARY_400": "#c6a0f6",
       "PRIMARY_500": "#cad3f5",
       "PRIMARY_600": "system_neutral2_800",
-      "PRIMARY_630": "#2ea043",
-    },
-    "spec": 2
-            }
+      "PRIMARY_630": "#2ea043"
+   },
+   "spec": 2
+           }
