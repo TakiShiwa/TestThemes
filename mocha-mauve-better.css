@@ -31,6 +31,8 @@ text-transform: unset!important;
 background-color: #ffffff05;
 border-radius: 1rem;
 }
+
+
 [class^="channelTextArea"]::before {
     content: "";
     width: 32px;
